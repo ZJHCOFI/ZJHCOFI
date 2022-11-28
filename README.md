@@ -1,8 +1,5 @@
-## 个人简介
-![头像](https://www.zjhcofi.com/2077/07/07/ZJHCOFI-s-Blog/blog_img.png)
-- Bilibili:[space.bilibili.com/9704701](https://space.bilibili.com/9704701)
-***
 ## 主要信息
+- Bilibili:[space.bilibili.com/9704701](https://space.bilibili.com/9704701)
 - 95后
 - 现任职：秃头运维🐶
 - 小破站UP主，偶尔直播玩游戏🎮或写代码💻
